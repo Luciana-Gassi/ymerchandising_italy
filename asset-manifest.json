@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "./static/css/main.71c3a1c4.css",
+    "main.js": "./static/js/main.18bb1e39.js",
+    "static/media/sustainable-dev.jpg": "./static/media/sustainable-dev.a77b72bf184bb4e351ae.jpg",
+    "static/media/visualplatform.jpg": "./static/media/visualplatform.7869ece10b36532bf459.jpg",
+    "static/media/web_control_panel.jpg": "./static/media/web_control_panel.7e49861584fef4007d33.jpg",
+    "static/media/augmented_reality.jpg": "./static/media/augmented_reality.7dc1f4c0cc65ed2d89d4.jpg",
+    "static/media/polimi_img.jpg": "./static/media/polimi_img.a8dd93e24d73ec688193.jpg",
+    "static/media/Services.jpg": "./static/media/Services.b76c113137a08c7216e7.jpg",
+    "static/media/YourMerch_logorb.png": "./static/media/YourMerch_logorb.7dcf47bcab6052365df7.png",
+    "static/media/asiago.jpg": "./static/media/asiago.cf8ab9ce9a8c986d1e2f.jpg",
+    "static/media/Ecovadis_Cert.jpg": "./static/media/Ecovadis_Cert.23a09e1210b62111d6db.jpg",
+    "static/media/Gots_Cert.jpg": "./static/media/Gots_Cert.67591a2983a2e6837793.jpg",
+    "static/media/Ocean_Cert.jpg": "./static/media/Ocean_Cert.08e7251b8f888be30543.jpg",
+    "static/media/Grs_Cert.jpg": "./static/media/Grs_Cert.1879eabb9d7b0cc04191.jpg",
+    "static/media/UNglobal_Cert.jpg": "./static/media/UNglobal_Cert.e6f7d2e5a0d5d1e35554.jpg",
+    "static/media/FSC_Cert.jpg": "./static/media/FSC_Cert.1fc4d3866e908b3af0e0.jpg",
+    "static/media/acfFiorentina.jpg": "./static/media/acfFiorentina.8bef01e3a7f99fd9c923.jpg",
+    "static/media/Smeta_Cert.jpg": "./static/media/Smeta_Cert.a715e3e477904dbd8ca1.jpg",
+    "static/media/polimilogo.png": "./static/media/polimilogo.1c3630793d0c95e8501f.png",
+    "static/media/ym-logoWH.svg": "./static/media/ym-logoWH.507e6befad41014f06b154478c59b00e.svg",
+    "index.html": "./index.html",
+    "main.71c3a1c4.css.map": "./static/css/main.71c3a1c4.css.map",
+    "main.18bb1e39.js.map": "./static/js/main.18bb1e39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71c3a1c4.css",
+    "static/js/main.18bb1e39.js"
+  ]
+}
