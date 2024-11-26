@@ -2,7 +2,7 @@
 	"name": "land_ym_italia",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://luciana-gassi.github.io/ymerchandising_italy/",
+	"homepage": ".",
 	"dependencies": {
 		"@headlessui/react": "^2.2.0",
 		"@testing-library/jest-dom": "^5.17.0",
